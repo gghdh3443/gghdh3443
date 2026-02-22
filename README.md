@@ -1,16 +1,23 @@
-## Hi there 👋
+# Christoffer Hvale-Thorsnes
 
-<!--
-**gghdh3443/gghdh3443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT-elev med interesse for kunstig intelligens og cybersikkerhet.
 
-Here are some ideas to get you started:
+## Prosjekter
+- 🧠 House Price Prediction (Machine Learning + Hugging Face)
+- 💻 Egen portfolio-nettside
+- 📊 Budsjett-program
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Teknologier
+- Python
+- HTML & CSS
+- JavaScript
+- scikit-learn
+- Git & GitHub
+
+## 🌐 Live prosjekter
+- House Price Model (Hugging Face)
+- Portfolio
+
+## 📫 Kontakt
+- LinkedIn: https://www.linkedin.com/in/christoffer-hvale-thorsnes-ab6b933a9/
+- Email: christofferthorsnes@gmail.com
